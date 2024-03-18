@@ -86,18 +86,16 @@ content:
     content: | # this will include new lines to allow paragraphs
       ## UX Copy
 
-      **Trend Micro** - [Trend Micro Security Assessment Service](https://resources.trendmicro.com/security-assessment-service-us.html)  
+      - [Trend Micro Security Assessment Service](https://resources.trendmicro.com/security-assessment-service-us.html)
+        The service provides a detailed view of threats found across segments of an organization. I wrote the UX copy in early versions of the product console and associated applications.   
 
-      The service provides a detailed view of threats found across segments of an organization. I wrote the UX copy in early versions of the product console and associated applications.   
-
-      **Atgenomix** - [SeqsLab V3](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp)
-    
-      SeqsLab is a cloud-native biomedical information technology platform. I wrote most of the UX copy in the Azure enterprise application.  
+      - [Atgenomix SeqsLab V3](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp)
+        SeqsLab is a cloud-native biomedical information technology platform. I wrote most of the UX copy in the Azure enterprise application.  
 
       ## Tutorial
 
-      - Trend Micro | [Trend Micro Apex One](https://www.youtube.com/watch?v=DLiZcT7HzjU)  
-      - Trend Micro | [Trend Micro Worry-Free XDR](https://www.youtube.com/watch?v=4QEUy3pzZOU)  
+      - [Trend Micro Apex One](https://www.youtube.com/watch?v=DLiZcT7HzjU)  
+      - [Trend Micro Worry-Free XDR](https://www.youtube.com/watch?v=4QEUy3pzZOU)  
 
       These videos show how Trend Micro products can help detect, investigate, and respond to cyberattacks. I wrote the scripts and worked with the multimedia designer in creating the storyboards.
 
@@ -105,19 +103,16 @@ content:
 
       These help packages contain detailed descriptions of components and features, and procedures for configuring and managing the platforms.
 
-      **Trend Micro** - [Trend Vision One](https://docs.trendmicro.com/en-us/enterprise/trend-micro-xdr-help/Home)
-
-      The following are some of the topics that I wrote.
-      - [Risk Reduction Measures](https://web.archive.org/web/20230310011607/https://docs.trendmicro.com/en-us/enterprise/trend-micro-vision-one/security-posture-gro/identity-and-risk-in/risk-insights/cloud-app-risk-index/riskreductionmeasure.aspx)
-      - [Accounts with Weak Authentication](https://web.archive.org/web/20230317022609/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one-olh/security-posture-gro/executivedashboard/exposureoverview/accountsweakauthenti.aspx)
-      - [Deploying the Trend Vision One Connector](https://web.archive.org/web/20230317030954/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/common-apps/third-party-integrat/azuresentinel-connec/azuresentinel-connec_002.aspx)
-
-      **Atgenomix** - [SeqsLab V3](https://docs.atgenomix.com/home.html)
-
-      The following are some of the topics that I wrote.
-      - [Interactive jobs](https://web.archive.org/web/20230814114953/https://docs.atgenomix.com/tutorials/jobs_interactive.html)
-      - [Request Azure backend quota](https://web.archive.org/web/20230704012614/https://docs.atgenomix.com/tutorials/request-quota.html)
-      - [Configure storage log access](https://web.archive.org/web/20230630064855/https://docs.atgenomix.com/tutorials/configure-log-access.html)
+      - [Trend Vision One](https://docs.trendmicro.com/en-us/enterprise/trend-micro-xdr-help/Home)
+        The following are some of the topics that I wrote.
+        - [Risk Reduction Measures](https://web.archive.org/web/20230310011607/https://docs.trendmicro.com/en-us/enterprise/trend-micro-vision-one/security-posture-gro/identity-and-risk-in/risk-insights/cloud-app-risk-index/riskreductionmeasure.aspx)
+        - [Accounts with Weak Authentication](https://web.archive.org/web/20230317022609/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one-olh/security-posture-gro/executivedashboard/exposureoverview/accountsweakauthenti.aspx)
+        - [Deploying the Trend Vision One Connector](https://web.archive.org/web/20230317030954/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/common-apps/third-party-integrat/azuresentinel-connec/azuresentinel-connec_002.aspx)
+      - [Atgenomix SeqsLab V3](https://docs.atgenomix.com/home.html)
+        The following are some of the topics that I wrote.
+        - [Interactive jobs](https://web.archive.org/web/20230814114953/https://docs.atgenomix.com/tutorials/jobs_interactive.html)
+        - [Request Azure backend quota](https://web.archive.org/web/20230704012614/https://docs.atgenomix.com/tutorials/request-quota.html)
+        - [Configure storage log access](https://web.archive.org/web/20230630064855/https://docs.atgenomix.com/tutorials/configure-log-access.html)
 
       ## User Guide
 
