@@ -96,6 +96,7 @@ content:
       - [Trend Micro Apex One](https://www.youtube.com/watch?v=DLiZcT7HzjU)  
       - [Trend Micro Worry-Free XDR](https://www.youtube.com/watch?v=4QEUy3pzZOU)  
 
+
       ## Online Help
 
       These help packages contain detailed descriptions of components and features, and procedures for configuring and managing the platforms.
@@ -109,9 +110,11 @@ content:
         - [Request Azure backend quota](https://web.archive.org/web/20230704012614/https://docs.atgenomix.com/tutorials/request-quota.html)
         - [Configure storage log access](https://web.archive.org/web/20230630064855/https://docs.atgenomix.com/tutorials/configure-log-access.html)
 
+
       ## User Guide
       This guide contains hardware information, including procedures for component installation, basic operations, and troubleshooting.
       - [QNAP TS-x73U](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/TS-x73U-UG-06-en.pdf)
+
 
       ## Getting Started Guide
 
@@ -119,11 +122,13 @@ content:
       
       - [QNAP QTS 4.3.4 (NAS operating system)](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/QTS4.3.4_GSG_en.pdf)
 
+
       ## Installation and Upgrade Guide
       
       This guide contains detailed requirements and procedures for installing and upgrading the product.
       
       - [Trend Micro Deep Discovery Analyzer 5.1](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/ddan_5.1_iug.pdf)
+
 
       ## API Guide
       
@@ -131,11 +136,13 @@ content:
       
       - [Trend Micro Trend Vision One Automation Center](https://automation.trendmicro.com/xdr/Guides/Getting-Started)
 
+
       ## Readme
 
       This document contains late-breaking product information that is not found in the main document set. Topics covered include known issues and product release history.
       
       - [Trend Micro Deep Discovery Director 1.0](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/ddd_1.0_readme.txt)
+
 
       ## Technical Advisory
 
@@ -143,12 +150,14 @@ content:
       
       - [QNAP Potential Silent Data Corruption on NAS Using RAID 5/6](https://www.qnap.com/en/technical-advisory/tec-201707-01)
 
+
       ## Technical Article
 
       These articles for Unitychain provide a comprehensive introduction to random number generators.
       
       - [A Brief History of Random (In)security](https://www.unitychain.io/blog/a-brief-history-of-random-insecurity/)
       - [Security in Chaos and Entropy](https://www.unitychain.io/blog/true-random-number-generators/)
+
 
       ## Datasheet
 
@@ -187,7 +196,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: References available upon request (Override references text)
+references_title: Copyright 2024. All rights reserved.
 
 # Build settings
 remote_theme: sproogen/resume-theme
