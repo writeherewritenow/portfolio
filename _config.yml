@@ -56,8 +56,8 @@ content:
     content:
       - layout: left
         title: Documentation Writing
-        description: _Building help systems that enable users to understand concepts and complete tasks_
-        I specialize in structured authoring, which is a standardized, methodological approach to content creation.
+        quote: Building help systems that enable users to understand concepts and complete tasks
+        description: I specialize in structured authoring, which is a standardized, methodological approach to content creation.
 
         # link: github.com/sproogen
         # link_text: Project Website
