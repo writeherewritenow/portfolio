@@ -92,7 +92,7 @@ content:
       link_text: Trend Micro Security Assessment Service
       additional_links:
           - title: Trend Micro Security Assessment Service
-            icon: fa-link
+            icon: fa fa-link
             url: https://resources.trendmicro.com/security-assessment-service-us.html
     - layout: left
       border: weak
@@ -102,7 +102,7 @@ content:
       link_text: SeqsLab V3
       additional_links:
           - title: SeqsLab V3
-            icon: fa-link
+            icon: fa fa-link
             url: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp
     - layout: left
       border: weak
