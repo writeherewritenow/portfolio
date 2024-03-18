@@ -92,17 +92,17 @@ content:
       link_text: Trend Micro Security Assessment Service
       additional_links:
           - title: Trend Micro Security Assessment Service
-            icon: fab fa-link
+            icon: fa-link
             url: https://resources.trendmicro.com/security-assessment-service-us.html
     - layout: left
       border: weak
       title: UX Copy | Atgenomix
       description: SeqsLab is a cloud-native biomedical information technology platform. I wrote most of the UX copy in the Azure enterprise application.
-      link: SeqsLab V3
-      link_text: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp
+      link: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp
+      link_text: SeqsLab V3
       additional_links:
           - title: SeqsLab V3
-            icon: fab fa-link
+            icon: fa-link
             url: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp
     - layout: left
       border: weak
