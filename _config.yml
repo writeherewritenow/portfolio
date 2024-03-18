@@ -71,7 +71,8 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         # description: | # this will include new lines to allow paragraphs
         #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-     
+        title: Documentation writing
+       description: Building help systems that enable users to complete tasks I specialize in structured authoring, which is a standardized, methodological approach to content creation.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
