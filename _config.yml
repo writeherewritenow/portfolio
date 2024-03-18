@@ -99,11 +99,12 @@ content:
     - layout: left
       border: weak
       title: Tutorial | Trend Micro 
-      description: SeqsLab is a cloud-native biomedical information technology platform. I wrote most of the UX copy in the Azure enterprise application.
+      description: These videos show how Trend Micro products can help detect, investigate, and respond to cyberattacks. I wrote the scripts and worked with the multimedia designer in creating the storyboards.
       link: (https://www.youtube.com/watch?v=DLiZcT7HzjU)  
       link_text: Trend Micro Apex One
       additional_links:
           - title:  Trend Micro Worry-Free XDR
+            icon: fab fa-youtube
             url: https://www.youtube.com/watch?v=4QEUy3pzZOU)  
 
 
