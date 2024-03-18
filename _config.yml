@@ -100,12 +100,15 @@ content:
       border: weak
       title: Tutorial | Trend Micro 
       description: These videos show how Trend Micro products can help detect, investigate, and respond to cyberattacks. I wrote the scripts and worked with the multimedia designer in creating the storyboards.
-      link: (https://www.youtube.com/watch?v=DLiZcT7HzjU)  
-      link_text: Trend Micro Apex One
+      link:  
+      link_text:
       additional_links:
-          - title:  Trend Micro Worry-Free XDR
+          - title: Trend Micro Worry-Free XDR
             icon: fab fa-youtube
-            url: https://www.youtube.com/watch?v=4QEUy3pzZOU)  
+            url: https://www.youtube.com/watch?v=4QEUy3pzZOU
+          - title: Trend Micro Apex One
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=DLiZcT7HzjU
 
 
   - title: My Skills # Title for the section
