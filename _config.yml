@@ -48,16 +48,17 @@ linkedin_username: cjmaroket
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  With over 10 years of experience in technical communication, I can create user-centered content for help systems, interfaces, and marketing collateral. I have always advocated for clear, consistent writing that facilitates understanding of complex concepts, task completion, and audience engagement. My body of work includes documentation, UX copy, marketing copy, style guides, terminology lists, and process documents.
-
+  With over 15 years of experience in technical communication, I possess a proven track record of distilling technical information into accessible content, enhancing the overall user experience and driving positive outcomes for the organizations I collaborate with. Throughout my career, I have been a staunch advocate for clear and consistent writing, ensuring that users can easily grasp complex concepts, navigate products with confidence, and accomplish tasks seamlessly.
 
 content:
   - title: What I Do # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Content strategy
-        description: Designing conversations between products and users I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
+        title: Documentation Writing
+        description: _Building help systems that enable users to understand concepts and complete tasks_
+        I specialize in structured authoring, which is a standardized, methodological approach to content creation.
+
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
