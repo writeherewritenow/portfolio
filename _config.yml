@@ -90,18 +90,26 @@ content:
       description: The service provides a detailed view of threats found across segments of an organization. I wrote the UX copy in early versions of the product console and associated applications.
       link: https://resources.trendmicro.com/security-assessment-service-us.html
       link_text: Trend Micro Security Assessment Service
+      additional_links:
+          - title: Trend Micro Security Assessment Service
+            icon: fab fa-link
+            url: https://resources.trendmicro.com/security-assessment-service-us.html
     - layout: left
       border: weak
       title: UX Copy | Atgenomix
       description: SeqsLab is a cloud-native biomedical information technology platform. I wrote most of the UX copy in the Azure enterprise application.
-      link: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp
-      link_text: SeqsLab V3
+      link: SeqsLab V3
+      link_text: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp
+      additional_links:
+          - title: SeqsLab V3
+            icon: fab fa-link
+            url: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp
     - layout: left
       border: weak
       title: Tutorial | Trend Micro 
       description: These videos show how Trend Micro products can help detect, investigate, and respond to cyberattacks. I wrote the scripts and worked with the multimedia designer in creating the storyboards.
       link:  
-      link_text:
+      link_text: Trend Micro Worry-Free XDR and Trend Micro Apex One
       additional_links:
           - title: Trend Micro Worry-Free XDR
             icon: fab fa-youtube
