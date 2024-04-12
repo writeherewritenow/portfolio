@@ -21,7 +21,7 @@ github_username:  jillian-maroket
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jameswgrant
+# instagram_username: jekyll
 linkedin_username: cjmaroket
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -48,64 +48,123 @@ linkedin_username: cjmaroket
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  With over 15 years of experience in technical communication, I possess a proven track record of distilling technical information into accessible content, enhancing the overall user experience and driving positive outcomes for the organizations I collaborate with. Throughout my career, I have been a staunch advocate for clear and consistent writing, ensuring that users can easily grasp complex concepts, navigate products with confidence, and accomplish tasks seamlessly.
 
-  ## Documentation Writing
+  I possess a proven track record of distilling technical information into accessible content that enhances the overall user experience and drives positive outcomes for the organizations I collaborate with. Throughout my career, I have been a staunch advocate for clear and consistent writing, ensuring that users can easily grasp complex concepts, navigate products with confidence, and accomplish tasks seamlessly.  
 
-  _Building help systems that enable users to understand concepts and complete tasks_
-
-  I specialize in structured authoring, which is a standardized, methodological approach to content creation.
-
-  ## UX Writing
-
-  _Creating user-centered content for web and mobile applications_
-
-  I write interface text (also known as "UX copy") that addresses what users feel and need at each step of their user journey.
-
-  ## Content Strategy
-
-  _Designing conversations between products and users_
-
-  I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
-
-
-
-
-content:
   - title: What I Do # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Documentation Writing
-        quote: Building help systems that enable users to understand concepts and complete tasks
-        description: I specialize in structured authoring, which is a standardized, methodological approach to content creation.
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+  
+      ## Documentation Writing
 
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #   url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-      - layout: left 
-        title: UX Writing
-        quote: Creating user-centered content for web and mobile applications
-        description: I write interface text (also known as "UX copy") that addresses what users feel and need at each step of their user journey.
-      - layout: left 
-        title: Content Strategy
-        quote: Designing conversations between products and users
-        description: I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
+      _Building help systems that enable users to understand concepts and complete tasks_
+
+      I specialize in structured authoring, which is a standardized, methodological approach to content creation.
+
+      ## UX Writing
+
+      _Creating user-centered content for web and mobile applications_
+
+      I write interface text (also known as "UX copy") that addresses what users feel and need at each step of their user journey.
+
+      ## Content Architecture
+
+      PENDING
+
+      ## Content Strategy
+
+      _Designing conversations between products and users_
+
+      I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
 
   - title: Sample Work # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
       
+      ## Online Help
+
+      Content: Detailed descriptions of components and features, and procedures for installation, configuration, management.
+
+      Samples:  
+
+      - Trend Micro | **Trend Vision One** 
+        - [Risk Reduction Measures](https://web.archive.org/web/20230310011607/https://docs.trendmicro.com/en-us/enterprise/trend-micro-vision-one/security-posture-gro/identity-and-risk-in/risk-insights/cloud-app-risk-index/riskreductionmeasure.aspx)  
+        - [Accounts with Weak Authentication](https://web.archive.org/web/20230317022609/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one-olh/security-posture-gro/executivedashboard/exposureoverview/accountsweakauthenti.aspx)  
+        - [Deploying the Trend Vision One Connector](https://web.archive.org/web/20230317030954/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/common-apps/third-party-integrat/azuresentinel-connec/azuresentinel-connec_002.aspx)  
+
+      - Atgenomix | **SeqsLab V3** 
+        - [Interactive jobs](https://web.archive.org/web/20230814114953/https://docs.atgenomix.com/tutorials/jobs_interactive.html)  
+        - [Request Azure backend quota](https://web.archive.org/web/20230704012614/https://docs.atgenomix.com/tutorials/request-quota.html)  
+        - [Configure storage log access](https://web.archive.org/web/20230630064855/https://docs.atgenomix.com/tutorials/configure-log-access.html)  
+
+      - SUSE | **Harvester** 
+        - [Single-Node Clusters](https://web.archive.org/web/20231215064707/https://docs.harvesterhci.io/v1.3/advanced/singlenodeclusters)  
+        - [Net Install ISO](https://web.archive.org/web/20240325111746/https://docs.harvesterhci.io/v1.3/install/net-install/)  
+
+      ## API Guide
+      
+      Content: Key concepts and explanations of first steps users need to take to start using the APIs.
+      
+      Sample: Trend Vision One Automation Center](https://automation.trendmicro.com/xdr/Guides/Getting-Started)
+        
+      ## Installation and Upgrade Guide 
+      
+      Content: Detailed requirements and procedures for installing and upgrading the product.
+      
+      Sample: [Trend Micro Deep Discovery Analyzer 5.1](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/ddan_5.1_iug.pdf)
+
+      ## Getting Started Guide
+
+      Content: Information that bridges the gap between the hardware and software guides, helping users quickly set up and store data on their devices.
+      
+      Sample: [QNAP QTS 4.3.4 (NAS operating system)](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/QTS4.3.4_GSG_en.pdf)
+
+      ## User Guide (Hardware)
+
+      Content: Procedures for component installation, basic operations, and troubleshooting.
+      
+      Sample: [QNAP TS-x73U](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/TS-x73U-UG-06-en.pdf)
+
+      ## Release Notes
+
+      Content: Descriptions of changes made to a product.
+
+      Samples:
+      - [Longhorn v1.6.0 Release Notes](https://web.archive.org/web/20240225012819/https://github.com/longhorn/longhorn/releases/tag/v1.6.0)
+      - [Harvester v1.3.0 Release Notes](https://web.archive.org/web/20240325113127/https://github.com/harvester/harvester/releases/tag/v1.3.0)
+
+      ## Readme
+
+      Content: Late-breaking product information that is not found in the main document set. Topics covered include known issues and product release history.
+      
+      Sample: [Trend Micro Deep Discovery Director 1.0](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/ddd_1.0_readme.txt)
+
+      ## Knowledge Base Article
+      
+      Content: Answers to common questions, descriptions of specific topics, and solutions for issues related to product usage.
+
+      Sample: [Best Practices for Optimizing Longhorn Disk Performance](https://web.archive.org/web/20240325112102/https://harvesterhci.io/kb/best_practices_for_optimizing_longhorn_disk_performance/)
+
+      ## Technical Advisory
+
+      Content: Information about technical issues that affect specific versions of a product.
+      
+      Sample: [QNAP Potential Silent Data Corruption on NAS Using RAID 5/6](https://www.qnap.com/en/technical-advisory/tec-201707-01)
+
+      ## Technical Article
+
+      Content: Information about a specific topic (in this case, random number generators).
+      
+      Samples:
+      - [A Brief History of Random (In)security](https://www.unitychain.io/blog/a-brief-history-of-random-insecurity/)
+      - [Security in Chaos and Entropy](https://www.unitychain.io/blog/true-random-number-generators/)
+
+      ## Datasheet
+
+      Content: Product features and benefits, unique selling points, and important technical characteristics.
+      
+      - [Trend Micro Consumer Endpoint Security for Service Providers](https://github.com/jillian-maroket/profile/blob/a9c1f0f3e7eff95d34860c70a27ddb616048d15d/docs/xsp-consumer-endpoint-security-datasheet-en.pdf)
+
       ## UX Copy
 
       - [Trend Micro Security Assessment Service](https://resources.trendmicro.com/security-assessment-service-us.html): The service provides a detailed view of threats found across segments of an organization. I wrote the UX copy in early versions of the product console and associated applications.   
@@ -118,122 +177,6 @@ content:
       
       - [Trend Micro Apex One](https://www.youtube.com/watch?v=DLiZcT7HzjU)  
       - [Trend Micro Worry-Free XDR](https://www.youtube.com/watch?v=4QEUy3pzZOU)  
-
-      ## Online Help
-
-      These help packages contain detailed descriptions of components and features, and procedures for configuring and managing the platforms.
-
-      - [Trend Vision One](https://docs.trendmicro.com/en-us/enterprise/trend-micro-xdr-help/Home): The following are some of the topics that I wrote.
-        - [Risk Reduction Measures](https://web.archive.org/web/20230310011607/https://docs.trendmicro.com/en-us/enterprise/trend-micro-vision-one/security-posture-gro/identity-and-risk-in/risk-insights/cloud-app-risk-index/riskreductionmeasure.aspx)
-        - [Accounts with Weak Authentication](https://web.archive.org/web/20230317022609/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one-olh/security-posture-gro/executivedashboard/exposureoverview/accountsweakauthenti.aspx)
-        - [Deploying the Trend Vision One Connector](https://web.archive.org/web/20230317030954/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/common-apps/third-party-integrat/azuresentinel-connec/azuresentinel-connec_002.aspx)
-
-      - [Atgenomix SeqsLab V3](https://docs.atgenomix.com/home.html): The following are some of the topics that I wrote.
-        - [Interactive jobs](https://web.archive.org/web/20230814114953/https://docs.atgenomix.com/tutorials/jobs_interactive.html)
-        - [Request Azure backend quota](https://web.archive.org/web/20230704012614/https://docs.atgenomix.com/tutorials/request-quota.html)
-        - [Configure storage log access](https://web.archive.org/web/20230630064855/https://docs.atgenomix.com/tutorials/configure-log-access.html)
-
-      - [Harvester HCI](https://docs.harvesterhci.io/): The following are some of the topics that I wrote.
-        - [Single-Node Clusters](https://web.archive.org/web/20231215064707/https://docs.harvesterhci.io/v1.3/advanced/singlenodeclusters)
-        - [Net Install ISO](https://web.archive.org/web/20240325111746/https://docs.harvesterhci.io/v1.3/install/net-install/)
-    
-      ## Release Notes
-
-      These documents outline the changes made to a product.
-
-      - [Longhorn v1.6.0 Release Notes](https://web.archive.org/web/20240225012819/https://github.com/longhorn/longhorn/releases/tag/v1.6.0)
-      - [Harvester v1.3.0 Release Notes](https://web.archive.org/web/20240325113127/https://github.com/harvester/harvester/releases/tag/v1.3.0)
-
-      ## Knowledge Base Article
-      
-      This article is intended to answer common questions, explain specific topics, and provide solutions for issues related to product usage.
-
-      - [Best Practices for Optimizing Longhorn Disk Performance](https://web.archive.org/web/20240325112102/https://harvesterhci.io/kb/best_practices_for_optimizing_longhorn_disk_performance/)
-        
-      ## User Guide
-
-      This guide contains hardware information, including procedures for component installation, basic operations, and troubleshooting.
-      
-      - [QNAP TS-x73U](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/TS-x73U-UG-06-en.pdf)
-
-
-      ## Getting Started Guide
-
-      This guide bridges the gap between the hardware and software guides, helping users quickly set up and store data on their NAS devices.
-      
-      - [QNAP QTS 4.3.4 (NAS operating system)](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/QTS4.3.4_GSG_en.pdf)
-
-
-      ## Installation and Upgrade Guide
-      
-      This guide contains detailed requirements and procedures for installing and upgrading the product.
-      
-      - [Trend Micro Deep Discovery Analyzer 5.1](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/ddan_5.1_iug.pdf)
-
-
-      ## API Guide
-      
-      This guide walks users through key concepts and the first steps they need to take to start using the APIs.
-      
-      - [Trend Micro Trend Vision One Automation Center](https://automation.trendmicro.com/xdr/Guides/Getting-Started)
-
-
-      ## Readme
-
-      This document contains late-breaking product information that is not found in the main document set. Topics covered include known issues and product release history.
-      
-      - [Trend Micro Deep Discovery Director 1.0](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/ddd_1.0_readme.txt)
-
-
-      ## Technical Advisory
-
-      This advisory contains information about technical issues that affect specific versions of company products.
-      
-      - [QNAP Potential Silent Data Corruption on NAS Using RAID 5/6](https://www.qnap.com/en/technical-advisory/tec-201707-01)
-
-
-      ## Technical Article
-
-      These articles for Unitychain provide a comprehensive introduction to random number generators.
-      
-      - [A Brief History of Random (In)security](https://www.unitychain.io/blog/a-brief-history-of-random-insecurity/)
-      - [Security in Chaos and Entropy](https://www.unitychain.io/blog/true-random-number-generators/)
-
-
-      ## Datasheet
-
-      This document describes the product's features and benefits, unique selling points, and important technical characteristics.
-      
-      - [Trend Micro Consumer Endpoint Security for Service Providers](https://github.com/jillian-maroket/profile/blob/a9c1f0f3e7eff95d34860c70a27ddb616048d15d/docs/xsp-consumer-endpoint-security-datasheet-en.pdf)
-
-  - title: My Skills # Title for the section
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Information architecture  
-      - Structured authoring using the Darwin Information Typing Architecture (DITA)  
-      - API documentation  
-      - Content delivery using Docs-as-Code workflows  
-      - UX writing  
-      - Audio-visual media production  
-      - Structural, technical, and copy editing  
-      - Content strategy  
-      - Creation of terminology and style standards  
-      - Configuration of authoring and publishing environments 
-      - Project management
-
-
-  - title: Tools and Technology # Title for the section
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Languages: HTML, Markdown, XML, YAML, SQL  
-      - XML authoring: Syncro Soft Oxygen, Adobe FrameMaker  
-      - Content management: SDL Tridion Docs, Umbraco  
-      - Source code editing: Visual Studio Code, Sublime Text  
-      - Source code management: GitHub  
-      - Interface design: Figma, Adobe XD  
-      - Print and web publishing: Adobe InDesign  
-      - Digital imaging: Adobe Photoshop, TechSmith Snagit  
-      - Collaboration and productivity: Atlassian Confluence and Jira, Notion, Slack
 
 # Footer
 footer_show_references: true
