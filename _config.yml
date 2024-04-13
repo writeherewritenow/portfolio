@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   I possess a proven track record of distilling technical information into accessible content that enhances the overall user experience and drives positive outcomes for the organizations I collaborate with. Throughout my career, I have been a staunch advocate for clear and consistent writing, ensuring that users can easily grasp complex concepts, navigate products with confidence, and accomplish tasks seamlessly.  
 
 content: | # this will include new lines to allow paragraphs
-- title: What I Do # Title for the section
+- title: What I Do
   layout: text
   content:
   
@@ -78,12 +78,10 @@ content: | # this will include new lines to allow paragraphs
 
   I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
 
-content: | # this will include new lines to allow paragraphs
 - title: Sample Work # Title for the section
   layout: text
   content:
   
-      
   Online Help
 
   Detailed descriptions of components and features, and procedures for installation, configuration, management.
