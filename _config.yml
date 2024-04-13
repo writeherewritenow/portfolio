@@ -50,29 +50,24 @@ linkedin_username: cjmaroket
 about_content: | # this will include new lines to allow paragraphs
 
   I possess a proven track record of distilling technical information into accessible content that enhances the overall user experience and drives positive outcomes for the organizations I collaborate with. Throughout my career, I have been a staunch advocate for clear and consistent writing, ensuring that users can easily grasp complex concepts, navigate products with confidence, and accomplish tasks seamlessly.  
-
-content:
-  - title: What I Do
-    layout: text
-    content:
   
-      Documentation Writing
+  - Documentation Writing
 
       _Building help systems that enable users to understand concepts and complete tasks_
 
       I specialize in structured authoring, which is a standardized, methodological approach to content creation.
 
-      UX Writing
+  - UX Writing
 
       _Creating user-centered content for web and mobile applications_
 
       I write interface text (also known as "UX copy") that addresses what users feel and need at each step of their user journey.
 
-      Content Architecture
+  - Content Architecture
 
       PENDING
 
-      Content Strategy
+  - Content Strategy
 
       _Designing conversations between products and users_
 
@@ -164,16 +159,24 @@ content:
 
       UX Copy
 
-      - [Trend Micro Security Assessment Service](https://resources.trendmicro.com/security-assessment-service-us.html): The service provides a detailed view of threats found across segments of an organization. I wrote the UX copy in early versions of the product console and associated applications.   
+      Content:
 
-      - [Atgenomix SeqsLab V3](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp): SeqsLab is a cloud-native biomedical information technology platform. I wrote most of the UX copy in the Azure enterprise application.  
+      Samples:
+      - [Trend Micro Security Assessment Service](https://resources.trendmicro.com/security-assessment-service-us.html): The service provides a detailed view of threats found across segments of an organization. I wrote the UX copy in early versions of the product console and associated applications.   
+      - [Atgenomix SeqsLab V3](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp): SeqsLab is a cloud-native biomedical information technology platform. I wrote most of the UX copy in a version of the Azure enterprise application.  
 
       Tutorial
 
-      These videos show how Trend Micro products can help detect, investigate, and respond to cyberattacks. I wrote the scripts and worked with the multimedia designer in creating the storyboards.
+      Content: PENDING
       
+      Samples:
+      These videos show how Trend Micro products can help detect, investigate, and respond to cyberattacks. I wrote the scripts and worked with the multimedia designer in creating the storyboards.
       - [Trend Micro Apex One](https://www.youtube.com/watch?v=DLiZcT7HzjU)  
       - [Trend Micro Worry-Free XDR](https://www.youtube.com/watch?v=4QEUy3pzZOU)  
+
+      Terminology and Style Standards
+
+      Sample: [Harvester Glossary](https://web.archive.org/web/20240413070006/https://docs.harvesterhci.io/v1.3/glossary/)
 
 # Footer
 footer_show_references: true
