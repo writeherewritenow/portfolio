@@ -73,6 +73,7 @@ about_content: | # this will include new lines to allow paragraphs
 
       I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
 
+content:
   - title: Sample Work # Title for the section
     layout: text
     content:
