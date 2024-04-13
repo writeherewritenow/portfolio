@@ -56,13 +56,13 @@ content: | # this will include new lines to allow paragraphs
   layout: text
   content:
   
-    ## Documentation Writing
+    **Documentation Writing**
 
     _Building help systems that enable users to understand concepts and complete tasks_
 
     I specialize in structured authoring, which is a standardized, methodological approach to content creation.
 
-    ## UX Writing
+    UX Writing
 
     _Creating user-centered content for web and mobile applications_
 
