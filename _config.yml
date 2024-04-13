@@ -56,27 +56,27 @@ content: | # this will include new lines to allow paragraphs
   layout: text
   content:
   
-    **Documentation Writing**
+  Documentation Writing
 
-    _Building help systems that enable users to understand concepts and complete tasks_
+  _Building help systems that enable users to understand concepts and complete tasks_
 
-    I specialize in structured authoring, which is a standardized, methodological approach to content creation.
+  I specialize in structured authoring, which is a standardized, methodological approach to content creation.
 
-    UX Writing
+  UX Writing
 
-    _Creating user-centered content for web and mobile applications_
+  _Creating user-centered content for web and mobile applications_
 
-    I write interface text (also known as "UX copy") that addresses what users feel and need at each step of their user journey.
+  I write interface text (also known as "UX copy") that addresses what users feel and need at each step of their user journey.
 
-    Content Architecture
+  Content Architecture
 
-    PENDING
+  PENDING
 
-    Content Strategy
+  Content Strategy
 
-    _Designing conversations between products and users_
+  _Designing conversations between products and users_
 
-    I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
+  I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
 
 content: | # this will include new lines to allow paragraphs
 - title: Sample Work # Title for the section
