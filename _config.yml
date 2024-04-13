@@ -86,9 +86,9 @@ content: | # this will include new lines to allow paragraphs
       
     ## Online Help
 
-    Content: Detailed descriptions of components and features, and procedures for installation, configuration, management.
+    Detailed descriptions of components and features, and procedures for installation, configuration, management.
 
-    Samples:  
+    **Samples**:  
 
     - Trend Micro | **Trend Vision One** 
       - [Risk Reduction Measures](https://web.archive.org/web/20230310011607/https://docs.trendmicro.com/en-us/enterprise/trend-micro-vision-one/security-posture-gro/identity-and-risk-in/risk-insights/cloud-app-risk-index/riskreductionmeasure.aspx)  
